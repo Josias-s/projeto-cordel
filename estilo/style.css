@@ -45,14 +45,14 @@
         font-size: 3vw;
     }
      #im1{
-        background-image: url(/imagens/pexels-hala-o-2154057987-33062385\ \(1\).jpg);
-        background-position: center  ;
+        background-image:url(/imagens/natureza.jpg);
+        background-position: center;
         background-size: cover;
         background-attachment: fixed;
     
     }
     #im2{
-        background-image: url(/imagens/background002.jpg);
+        background-image:url(/imagens/texto.jpg);
         background-attachment: fixed;
         background-size: cover;
     }
